@@ -608,6 +608,12 @@ video {
 .h-\[550px\] {
   height: 550px;
 }
+.h-\[250px\] {
+  height: 250px;
+}
+.h-\[40\%\] {
+  height: 40%;
+}
 .min-h-\[70vh\] {
   min-height: 70vh;
 }
@@ -641,6 +647,9 @@ video {
 .w-\[70px\] {
   width: 70px;
 }
+.w-\[40\%\] {
+  width: 40%;
+}
 .min-w-\[170px\] {
   min-width: 170px;
 }
@@ -649,6 +658,9 @@ video {
 }
 .max-w-\[370px\] {
   max-width: 370px;
+}
+.max-w-\[650px\] {
+  max-width: 650px;
 }
 .flex-\[10\] {
   flex: 10;
@@ -707,6 +719,9 @@ video {
 .gap-\[30px\] {
   gap: 30px;
 }
+.gap-4 {
+  gap: 1rem;
+}
 .overflow-hidden {
   overflow: hidden;
 }
@@ -715,6 +730,9 @@ video {
 }
 .rounded-full {
   border-radius: 9999px;
+}
+.rounded-\[32px\] {
+  border-radius: 32px;
 }
 .rounded-b-\[24px\] {
   border-bottom-right-radius: 24px;
@@ -729,6 +747,9 @@ video {
 }
 .border-\[9px\] {
   border-width: 9px;
+}
+.border-\[1px\] {
+  border-width: 1px;
 }
 .border-white {
   --tw-border-opacity: 1;
@@ -748,6 +769,9 @@ video {
 .bg-\[\#5D6680\] {
   --tw-bg-opacity: 1;
   background-color: rgb(93 102 128 / var(--tw-bg-opacity));
+}
+.bg-transparent {
+  background-color: transparent;
 }
 .object-contain {
   -o-object-fit: contain;
@@ -813,6 +837,9 @@ video {
 }
 .text-\[44px\] {
   font-size: 44px;
+}
+.text-\[26px\] {
+  font-size: 26px;
 }
 .font-normal {
   font-weight: 400;
@@ -1053,6 +1080,10 @@ video {
     margin-top: -20px;
   }
 
+  .md\:ml-\[62px\] {
+    margin-left: 62px;
+  }
+
   .md\:block {
     display: block;
   }
@@ -1063,6 +1094,14 @@ video {
 
   .md\:w-\[212px\] {
     width: 212px;
+  }
+
+  .md\:w-\[270px\] {
+    width: 270px;
+  }
+
+  .md\:flex-row {
+    flex-direction: row;
   }
 
   .md\:border-\[18px\] {
@@ -1086,6 +1125,10 @@ video {
 
   .lg\:bottom-20 {
     bottom: 5rem;
+  }
+
+  .lg\:flex {
+    display: flex;
   }
 
   .lg\:w-\[80\%\] {
@@ -1115,6 +1158,14 @@ video {
 
   .lg\:text-\[144px\] {
     font-size: 144px;
+  }
+
+  .lg\:text-\[42px\] {
+    font-size: 42px;
+  }
+
+  .lg\:text-\[20px\] {
+    font-size: 20px;
   }
 
   .lg\:leading-\[158\.4px\] {
