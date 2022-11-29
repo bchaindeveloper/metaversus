@@ -704,6 +704,9 @@ video {
 .gap-\[24px\] {
   gap: 24px;
 }
+.gap-\[30px\] {
+  gap: 30px;
+}
 .overflow-hidden {
   overflow: hidden;
 }
