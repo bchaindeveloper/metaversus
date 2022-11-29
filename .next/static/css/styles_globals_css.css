@@ -536,6 +536,12 @@ video {
 .mt-\[48px\] {
   margin-top: 48px;
 }
+.mt-\[26px\] {
+  margin-top: 26px;
+}
+.mt-\[16px\] {
+  margin-top: 16px;
+}
 .flex {
   display: flex;
 }
@@ -613,6 +619,9 @@ video {
 }
 .min-w-\[170px\] {
   min-width: 170px;
+}
+.min-w-\[210px\] {
+  min-width: 210px;
 }
 .max-w-\[370px\] {
   max-width: 370px;
@@ -952,6 +961,10 @@ video {
 
   .sm\:w-\[80px\] {
     width: 80px;
+  }
+
+  .sm\:max-w-\[250px\] {
+    max-width: 250px;
   }
 
   .sm\:p-16 {
