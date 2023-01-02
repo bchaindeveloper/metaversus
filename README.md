@@ -3,7 +3,7 @@
 A guided project builting an interactive Next.js website showing the use case for the metaverse
 
 ## Screenshots:
-![Screenshot](public/screenshot1.png)
+![Screenshot](public/Screenshot1.png)
 
 Motivation:
 
