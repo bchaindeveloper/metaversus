@@ -2,10 +2,11 @@
 
 A guided project builting an interactive Next.js website showing the use case for the metaverse
 
-## Screenshots:
+## Screenshot:
+
 ![Screenshot](public/Screenshot1.png)
 
-Motivation:
+## Motivation:
 
 improve my front end development skills and work with motion 
 
@@ -27,7 +28,7 @@ yarn dev
 
 Feel free to a fork the repo or notify me of any issues that are present
 
-Credit: 
+## Credit: 
 
 JavascriptMastery tutorial - https://www.youtube.com/watch?v=ugCN_gynFYw&t=13s
 
